@@ -145,9 +145,7 @@ def EsPar(numero):
     if numero % 2 == 0:
         print("El número es par")
     else:
-        print("El número
-EsPar(4) 
-EsPar(7) 
+        print("El número es impar")
 
-El número es par
-El número es impar
+EsPar(6)
+EsPar(9)
