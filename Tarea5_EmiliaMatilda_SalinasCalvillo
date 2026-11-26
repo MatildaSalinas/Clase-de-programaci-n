@@ -114,3 +114,6 @@ if not linea.startswith(">") and linea.strip() != "":
 
     # Contar el total de nucleótidos
     total = total + len(linea.strip())
+
+6. Para el formato que te toca, explicar el nombre, extensión del archivo, para qué se usa, en qué consiste (qué reglas debe seguir el archivo para cumplir el formato) y un ejemplo. 
+https://youtu.be/7366Ghwbmug?si=pcDFdjep2ZcwRjBV
